@@ -1,1 +1,1 @@
-usage: python filename.py
+usage: python <filename>.py

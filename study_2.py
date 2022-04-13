@@ -50,9 +50,13 @@ def condition(age):
 
 print(condition(19))
 
-print("Sentence split and join")
-sentence = "The way to get started is to quit talking and begin doing"
-print(sentence.split())
-sentence_spit = sentence.split()
-print(' '.join(sentence.split()))
-print('\n'.join(sentence.split()))
+#print("Sentence split and join")
+#sentence = "The way to get started is to quit talking and begin doing"
+#print(sentence.split())
+#sentence_spit = sentence.split()
+#print(' '.join(sentence.split()))
+#print('\n'.join(sentence.split()))
+
+
+
+

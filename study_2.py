@@ -57,6 +57,6 @@ print(condition(19))
 #print(' '.join(sentence.split()))
 #print('\n'.join(sentence.split()))
 
-print "\n Aneesh Kumar G"
+print "\n AKG"
 
 
